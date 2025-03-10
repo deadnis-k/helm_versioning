@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  first_helm_test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-10T10:22:52.924833867Z"
+    description: A Helm chart for Kubernetes
+    digest: 2b8d4015a973f0e7856366f2a5327f33274e47650aa1a0349bc461063098306e
+    name: first_helm_test
+    type: application
+    urls:
+    - github.com/deadnis-k/helm_versioning.git/first_helm_test-0.1.81.tgz
+    version: 0.1.81
+generated: "2025-03-10T10:22:52.924474927Z"
