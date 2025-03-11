@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Helm Charts Repository</title>
+</head>
+<body>
+    <h1>Welcome to My Helm Charts Repository!</h1>
+    <p>This repository hosts Helm charts that you can use to deploy applications to Kubernetes.</p>
+    
+    <h2>How to Use</h2>
+    <p>To add this repository to your Helm client, run the following command:</p>
+    <pre>
+        helm repo add my-repo https://yourusername.github.io/my-helm-charts/charts
+    </pre>
+    <p>Then, run:</p>
+    <pre>
+        helm repo update
+    </pre>
+    <p>Now you can install any available charts from the repository, like this:</p>
+    <pre>
+        helm install my-release my-repo/mychart
+    </pre>
+
+    <h2>Charts Available</h2>
+    <ul>
+        <li><a href="https://yourusername.github.io/my-helm-charts/charts/mychart-0.1.0.tgz">MyChart</a> - A sample Helm chart.</li>
+    </ul>
+    
+    <footer>
+        <p>Hosted with ❤️ on GitHub Pages.</p>
+    </footer>
+</body>
+</html>
