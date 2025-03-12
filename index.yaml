@@ -3,7 +3,17 @@ entries:
   first_helm_test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.559135756Z"
+    created: "2025-03-12T09:24:03.449480553Z"
+    description: A Helm chart for Kubernetes
+    digest: 60ccd7e32bf66972899056dee49fa2156d4a192817cd9e2dab37406c5b5d19ab
+    name: first_helm_test
+    type: application
+    urls:
+    - https://deadnis-k.github.io/helm_versioning/first_helm_test-0.1.120.tgz
+    version: 0.1.120
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-12T09:24:03.449294275Z"
     description: A Helm chart for Kubernetes
     digest: edb68807690ae8039f8549d7e7ef11fc6cd39dcf112ea2e5355212212a4ff7a8
     name: first_helm_test
@@ -13,7 +23,7 @@ entries:
     version: 0.1.119
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.558939499Z"
+    created: "2025-03-12T09:24:03.4490878Z"
     description: A Helm chart for Kubernetes
     digest: 3a6d806138906d11ec2f51bff400faf2eda99cc5faefaf5604000909c2d2fe6e
     name: first_helm_test
@@ -23,7 +33,7 @@ entries:
     version: 0.1.117
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.558730709Z"
+    created: "2025-03-12T09:24:03.448880343Z"
     description: A Helm chart for Kubernetes
     digest: 3615cbfefdffc032ec3d07b7f72f036d5e696cb381f0f74a47540280511016fd
     name: first_helm_test
@@ -33,7 +43,7 @@ entries:
     version: 0.1.116
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.55847976Z"
+    created: "2025-03-12T09:24:03.44867536Z"
     description: A Helm chart for Kubernetes
     digest: a194f4fe3f6b72cd788a61ff22de894c3ee3e68201cc2cb74bb85f632604ce70
     name: first_helm_test
@@ -43,7 +53,7 @@ entries:
     version: 0.1.115
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.558262293Z"
+    created: "2025-03-12T09:24:03.448451212Z"
     description: A Helm chart for Kubernetes
     digest: 3bb8f952f16eb2cacab73a1715ca07d685d87a98e17baa995de4e896e81103e3
     name: first_helm_test
@@ -53,7 +63,7 @@ entries:
     version: 0.1.114
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.558063842Z"
+    created: "2025-03-12T09:24:03.448201947Z"
     description: A Helm chart for Kubernetes
     digest: 1fa66370afc6fe6a4c75a9f2ea12e66a554b575ae206641a58c48009ad0ac054
     name: first_helm_test
@@ -63,7 +73,7 @@ entries:
     version: 0.1.113
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.557862506Z"
+    created: "2025-03-12T09:24:03.447924369Z"
     description: A Helm chart for Kubernetes
     digest: 811794f7139687bf3aa14f09dcb1ac5d479dcb31406a8790ee35b984e3db84bb
     name: first_helm_test
@@ -73,7 +83,7 @@ entries:
     version: 0.1.112
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.557632436Z"
+    created: "2025-03-12T09:24:03.447714147Z"
     description: A Helm chart for Kubernetes
     digest: 71970872e29374b44b02f9842d2dc2e6fa06f000d0c7e9e484ef5208b207fc89
     name: first_helm_test
@@ -83,7 +93,7 @@ entries:
     version: 0.1.111
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.557365928Z"
+    created: "2025-03-12T09:24:03.447502512Z"
     description: A Helm chart for Kubernetes
     digest: f9e009236c5446c55e29f609aeb102530fe0b52f9cb76961550c86ad07c55621
     name: first_helm_test
@@ -93,7 +103,7 @@ entries:
     version: 0.1.110
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T09:19:21.557132341Z"
+    created: "2025-03-12T09:24:03.447283364Z"
     description: A Helm chart for Kubernetes
     digest: bb38aa5b5427d4cc4fa173c9680ed95a57b28596102d671252850e4b63af11db
     name: first_helm_test
@@ -101,4 +111,4 @@ entries:
     urls:
     - https://deadnis-k.github.io/helm_versioning/first_helm_test-0.1.109.tgz
     version: 0.1.109
-generated: "2025-03-12T09:19:21.556760536Z"
+generated: "2025-03-12T09:24:03.446908504Z"
